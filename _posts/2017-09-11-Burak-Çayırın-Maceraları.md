@@ -1,18 +1,18 @@
 ---
-title: "Layout: Header Video"
+title: "Burak Çayırın Maceraları"
 header:
   video:
     id: XsxDH4HcOWA
     provider: youtube
 categories:
-  - [Tech, Personal]
+  - Personal
   
 tags:
   - video
   - layout
 ---
 
-This post should display a **header with a responsive video**, if the theme supports it.
+Selamlar This post should display a **header with a responsive video**, if the theme supports it.
 
 ## Settings
 
