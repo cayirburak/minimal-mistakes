@@ -17,8 +17,8 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : "/assets/images/dene.png"
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : "disqus"
+comments                 : true
+provider               : "disqus"
   disqus:
     shortname            : "doyumsuzegoist"
   discourse:
