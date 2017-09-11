@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "tr"
-title                    : "Site Başlığı"
+title                    : "Ana Sayfa"
 title_separator          : "-"
 name                     : "Yayıncı"
 description              : "Değişik bir site."
@@ -95,7 +95,7 @@ author:
   keybase          :
   instagram        : "cyrburak"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/burak-%C3%A7ay%C4%B1r-857b789a/"
+  linkedin         : "burak-%C3%A7ay%C4%B1r-857b789a/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
