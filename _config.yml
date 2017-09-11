@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "doyumsuzegoist"
+    shortname            : doyumsuzegoist
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Burak Çayır"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Öylesine bir insanım."
+  avatar           : "/assets/images/dene.png"
+  bio              : "Öğrenci , developer ."
   location         : "Ankara"
-  email            :
-  uri              :
+  email            : "progamerburak@gmail.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
