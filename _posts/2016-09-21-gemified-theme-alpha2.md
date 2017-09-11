@@ -1,5 +1,5 @@
 ---
-title:  "Gemified Theme -- Alpha Release"
+title:  "Gemified Theme -- Alpha Release2"
 last_modified_at: 2016-11-03T11:46:00-04:00
 categories: 
   - Tech
