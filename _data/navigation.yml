@@ -35,3 +35,6 @@ docs:
         url: /docs/authors/
       - title: "Layouts"
         url: /docs/layouts/
+        
+sidebar:
+  nav: "docs"
