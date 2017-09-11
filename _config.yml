@@ -241,7 +241,7 @@ defaults:
       type: posts
     values:
       sidebar:
-           nav: "docs"
+        nav: "docs"
       layout: single
       author_profile: true
       read_time: true
