@@ -1,5 +1,5 @@
 ---
-title: "Burak Çayırın Maceraları"
+title: "Burak Çayirin Maceralari"
 header:
   video:
     id: XsxDH4HcOWA
