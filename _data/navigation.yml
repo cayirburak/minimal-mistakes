@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Yıllara göre yazılar"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /Kategoriye göre yazılar/
+  - title: "Kategoriye göre yazılar"
+    url: /categories/
  
 posts:
   - title: Kategoriler
