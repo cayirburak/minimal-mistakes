@@ -6,6 +6,9 @@ main:
     url: /year-archive/
   - title: "Kategoriye göre yazılar"
     url: /categories/
+  - title: "Kategoriler"
+    url: /kategoriler/
+ 
  
 posts:
   - title: Kategoriler
