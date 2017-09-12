@@ -5,8 +5,7 @@ header:
     id: XsxDH4HcOWA
     provider: youtube
 categories:
-  - Layout
-  - Uncategorized
+  - Personal
 tags:
   - video
   - layout
