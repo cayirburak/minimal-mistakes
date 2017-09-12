@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive-taxonomy
 permalink: /kategoriler/
 title: Kategoriler
 ---
