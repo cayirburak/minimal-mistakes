@@ -18,7 +18,6 @@ title: Kategoriler
 </ul>
 
 
-<h1 class='tag'>Blog Posts Sorted By Category</h1>
 {% assign sorted_categories = site.categories | sort {|left, right| left[0] <=> right[0]} %}
 {% for tag in sorted_categories %}
   <h2 class='tag' id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
