@@ -2,10 +2,8 @@
 main:
   - title: "Hakkında"
     url: /about/
-  - title: "Yıllara göre yazılar"
+  - title: "Tarihe göre yazılar"
     url: /year-archive/
-  - title: "Kategoriye göre yazılar"
-    url: /categories/
   - title: "Kategoriler"
     url: /kategoriler/
  
