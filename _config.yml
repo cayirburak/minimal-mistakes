@@ -7,7 +7,7 @@
 
 # Site Settings
 
-locale                   : "en"
+#locale                   : "en"
 title                    : "Ana Sayfaya"
 title_separator          : "-"
 name                     : "Copyright"
