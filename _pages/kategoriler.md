@@ -3,16 +3,6 @@ layout: single
 permalink: /kategoriler/
 title: Kategoriler
 ---
-<p>Posts in category "basic" are:</p>
-
-<ul>
-  {% for post in site.categories.basic %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
 
 <ul>
 {% assign categories_list = site.categories %}
