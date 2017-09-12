@@ -3,6 +3,21 @@ layout: archive
 permalink: /kategoriler/
 title: Kategoriler
 ---
+<ul class="tag-box inline">
+{% assign tags_list = site.categories %}  
+  {% if tags_list.first[0] == null %}
+    {% for tag in tags_list %} 
+      <li><a href="#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
+    {% endfor %}
+  {% else %}
+    {% for tag in tags_list %} 
+      <li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a></li>
+    {% endfor %}
+  {% endif %}
+{% assign tags_list = nil %}
+</ul>
+
+
 <h1 class='tag'>Blog Posts Sorted By Category</h1>
 {% assign sorted_categories = site.categories | sort {|left, right| left[0] <=> right[0]} %}
 {% for tag in sorted_categories %}
