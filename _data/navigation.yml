@@ -6,11 +6,5 @@ main:
     url: /year-archive/
   - title: "Kategoriler"
     url: /kategoriler/
- 
- 
-posts:
-  - title: Kategoriler
-    children:
-      - title: {% assign counter = 1 %}{% for item in site.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}
-        url: /docs/quick-start-guide/
+
 
