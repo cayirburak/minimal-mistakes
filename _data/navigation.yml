@@ -6,5 +6,8 @@ main:
     url: /year-archive/
   - title: "Kategoriler"
     url: /kategoriler/
+    
+side:
+    "selam"
 
 
