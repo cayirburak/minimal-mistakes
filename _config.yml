@@ -194,7 +194,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-archives
 
 
 # Archives
