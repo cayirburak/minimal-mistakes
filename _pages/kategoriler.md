@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: single
 permalink: /kategoriler/
 title: Kategoriler
 ---
