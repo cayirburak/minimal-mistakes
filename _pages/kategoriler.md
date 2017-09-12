@@ -4,8 +4,6 @@ permalink: /kategoriler/
 title: Kategoriler
 ---
 
-
-<h2>Categories</h2>
 <ul>
 {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
