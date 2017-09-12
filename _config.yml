@@ -246,4 +246,4 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "posts"
+        nav: "side"
