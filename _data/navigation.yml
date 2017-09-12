@@ -1,15 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Hakkında"
     url: /about/
   - title: "Yıllara göre yazılar"
     url: /year-archive/
   - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+    url: /Kategoriye göre yazılar/
  
 posts:
   - title: Kategoriler
